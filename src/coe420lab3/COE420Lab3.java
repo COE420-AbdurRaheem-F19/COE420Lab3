@@ -15,6 +15,7 @@ public class COE420Lab3 {
         System.out.println("Hello World!");
         System.out.println(" - Bouz");
         System.out.println(" - Eddy");
+        System.out.println(" - Hafez");
     }
     
     public static void main(String[] args) {
