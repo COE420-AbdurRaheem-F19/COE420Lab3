@@ -7,15 +7,17 @@ package coe420lab3;
 
 /**
  *
- * @author b00075108
+ * @author b00075108 b00073479
  */
 public class COE420Lab3 {
 
-    /**
-     * @param args the command line arguments
-     */
-    public static void main(String[] args) {
+    public static void hello() {
         System.out.println("Hello World!");
+        System.out.println(" - Bouz");
+    }
+    
+    public static void main(String[] args) {
+        hello();
     }
     
 }
